@@ -1,0 +1,19 @@
+{
+    "name": "beccadawson/beethovens-fifth",
+    "description": "Composer test",
+    "authors": [
+        {
+            "name": "becca",
+            "email": "becca.dawson@themarketinglab.co.uk"
+        }
+    ],
+    
+    "require": {},
+
+    "autoload": {
+    	"psr-4": {
+    		"BeccaDawson\\BeethovensFifth\\": "src/"
+    	}
+    }
+
+}
